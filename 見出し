@@ -1,0 +1,32 @@
+# 見出し
+
+本文です
+
+二行目です(半角空白2つ)  
+改行しました
+
+- リスト2
+- リスト2
+
+## 見出し2
+### 見出し3
+
+**強調**です
+
+*斜体*です
+
+~~打消し~~です
+
+---
+***
+
+- list1
+
+* list1
+
+[写真](https://www.bing.com/images/search?view=detailV2&ccid=t9ZiDPlf&id=F83399BFFF86792809203AD6523A2A50BE669CB8&thid=OIP.t9ZiDPlfstDYsy_qGce0aAHaEK&mediaurl=https%3A%2F%2Fgame.watch.impress.co.jp%2Fimg%2Fgmw%2Flist%2F1384%2F546%2F002.jpg&exph=1080&expw=1920&q=%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F&simid=608051766931247031&FORM=IRPRST&ck=C0BD9789C8C6D937A1916BDDE313B018&selectedIndex=1&itb=0&cw=1145&ch=535&ajaxhist=0&ajaxserp=0)
+
+| head01 | head2 |
+| ------ | ----- |
+| head01 | head2 |
+| tiikawa | kawa |
